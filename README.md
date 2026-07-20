@@ -17,12 +17,15 @@ Please forgive my limited English proficiency, the detail of projects was descri
 ## 總覽 Overview
 以下標題都有設連結，可以直接連到該頁面
 
+### [Crawler `2026-07`](https://github.com/Danny0515/Portfolio-DataEngineering)
+- Goal: 涵蓋完整資料工程生命週期的雲端金融資料分析平台
+- Description: 完整的資料工程生態系(ETL、湖倉、資料品質、資料治理)
+- Tech: Python, AWS
+- AI: Claude Code
+
 [//]: # (### [Ecommerce Backend `2023-06`]&#40;https://github.com/Danny0515/Portfolio-Ecommerce&#41;)
-
 [//]: # (- Goal: 微服務&#40;Microservice&#41;開發架構練習)
-
 [//]: # (- Description: 以電商網站為需求，主要在於實作服務之間的溝通)
-
 [//]: # (- Tech: Nginx, Kafka, Docker, Fastapi, MongoDB Atlas, Python  )
 
 ### [Crawler `2023-04`](https://github.com/Danny0515/Portfolio-crawler)
